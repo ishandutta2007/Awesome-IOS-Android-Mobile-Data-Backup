@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-IOS-Android-Mobile-Data-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IOS-Android-Mobile-Data-Backup?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-IOS-Android-Mobile-Data-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IOS-Android-Mobile-Data-Backup?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IOS-Android-Mobile-Data-Backup/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IOS-Android-Mobile-Data-Backup?style=social" alt="GitHub forks" /></a>
   <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,110 +68,110 @@ The market exhibits **moderate-to-high fragmentation with oligopolistic consolid
 
 ### 📸 Media & Self-Hosted Cloud Storage
 
-- **[Immich](https://github.com/immich-app/immich)** [![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
+- **[Immich](https://github.com/immich-app/immich)** [![GitHub_Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
   High-performance self-hosted photo & video backup solution for iOS and Android with automatic background backup, facial recognition, and album sync.
 
-- **[PhotoPrism](https://github.com/photoprism/photoprism)** [![GitHub stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)  
+- **[PhotoPrism](https://github.com/photoprism/photoprism)** [![GitHub_Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)  
   AI-powered self-hosted photos app and media backup server compatible with PhotoSync and WebDAV clients on iOS and Android.
 
-- **[Nextcloud](https://github.com/nextcloud/server)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+- **[Nextcloud](https://github.com/nextcloud/server)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
   Leading self-hosted productivity and private cloud platform with native iOS/Android clients for auto camera upload, CardDAV contacts, CalDAV, and files.
 
-- **[Ente Photos](https://github.com/ente-io/ente)** [![GitHub stars](https://img.shields.io/github/stars/ente-io/ente?style=social&color=white)](https://github.com/ente-io/ente/stargazers)  
+- **[Ente Photos](https://github.com/ente-io/ente)** [![GitHub_Stars](https://img.shields.io/github/stars/ente-io/ente?style=social&color=white)](https://github.com/ente-io/ente/stargazers)  
   End-to-end encrypted (E2EE), open-source cloud photo/video backup platform with dedicated iOS and Android native apps.
 
-- **[Seafile](https://github.com/haiwen/seafile)** [![GitHub stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)  
+- **[Seafile](https://github.com/haiwen/seafile)** [![GitHub_Stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)  
   High-performance enterprise-grade file sync and cloud storage system featuring mobile clients with automatic media backup and client-side encryption.
 
-- **[ownCloud Infinite Scale](https://github.com/owncloud/ocis)** [![GitHub stars](https://img.shields.io/github/stars/owncloud/ocis?style=social&color=white)](https://github.com/owncloud/ocis/stargazers)  
+- **[ownCloud Infinite Scale](https://github.com/owncloud/ocis)** [![GitHub_Stars](https://img.shields.io/github/stars/owncloud/ocis?style=social&color=white)](https://github.com/owncloud/ocis/stargazers)  
   Cloud-native file sync and sharing platform written in Go with microservices architecture, serving as a self-hosted target for mobile file sync.
 
 ---
 
 ### 🔌 Local Extraction, Device Control & Forensics
 
-- **[Scrcpy](https://github.com/Genymobile/scrcpy)** [![GitHub stars](https://img.shields.io/github/stars/Genymobile/scrcpy?style=social&color=white)](https://github.com/Genymobile/scrcpy/stargazers)  
+- **[Scrcpy](https://github.com/Genymobile/scrcpy)** [![GitHub_Stars](https://img.shields.io/github/stars/Genymobile/scrcpy?style=social&color=white)](https://github.com/Genymobile/scrcpy/stargazers)  
   High-performance screen mirroring and wireless/USB device control for Android; streamlines manual data pull, media extraction, and app management.
 
-- **[Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt)** [![GitHub stars](https://img.shields.io/github/stars/mvt-project/mvt?style=social&color=white)](https://github.com/mvt-project/mvt/stargazers)  
+- **[Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt)** [![GitHub_Stars](https://img.shields.io/github/stars/mvt-project/mvt?style=social&color=white)](https://github.com/mvt-project/mvt/stargazers)  
   Forensic analysis and extraction toolkit for iOS and Android used to acquire backups, inspect system artifacts, and detect security compromises.
 
-- **[libimobiledevice (idevicebackup2)](https://github.com/libimobiledevice/libimobiledevice)** [![GitHub stars](https://img.shields.io/github/stars/libimobiledevice/libimobiledevice?style=social&color=white)](https://github.com/libimobiledevice/libimobiledevice/stargazers)  
+- **[libimobiledevice (idevicebackup2)](https://github.com/libimobiledevice/libimobiledevice)** [![GitHub_Stars](https://img.shields.io/github/stars/libimobiledevice/libimobiledevice?style=social&color=white)](https://github.com/libimobiledevice/libimobiledevice/stargazers)  
   Cross-platform protocol library & CLI tool suite for creating, restoring, and encrypting full local iOS/iPadOS device backups over USB or Wi-Fi.
 
-- **[Android Backup Extractor](https://github.com/nelenkov/android-backup-extractor)** [![GitHub stars](https://img.shields.io/github/stars/nelenkov/android-backup-extractor?style=social&color=white)](https://github.com/nelenkov/android-backup-extractor/stargazers)  
+- **[Android Backup Extractor](https://github.com/nelenkov/android-backup-extractor)** [![GitHub_Stars](https://img.shields.io/github/stars/nelenkov/android-backup-extractor?style=social&color=white)](https://github.com/nelenkov/android-backup-extractor/stargazers)  
   Utility to extract and convert Android ADB backup (`.ab`) archives into standard tar archives for inspection and recovery.
 
-- **[Open Android Backup](https://github.com/mrrfv/open-android-backup)** [![GitHub stars](https://img.shields.io/github/stars/mrrfv/open-android-backup?style=social&color=white)](https://github.com/mrrfv/open-android-backup/stargazers)  
+- **[Open Android Backup](https://github.com/mrrfv/open-android-backup)** [![GitHub_Stars](https://img.shields.io/github/stars/mrrfv/open-android-backup?style=social&color=white)](https://github.com/mrrfv/open-android-backup/stargazers)  
   User-friendly cross-platform tool for creating encrypted, full-device backups of Android devices over ADB without proprietary lock-in.
 
-- **[adb-sync](https://github.com/google/adb-sync)** [![GitHub stars](https://img.shields.io/github/stars/google/adb-sync?style=social&color=white)](https://github.com/google/adb-sync/stargazers)  
+- **[adb-sync](https://github.com/google/adb-sync)** [![GitHub_Stars](https://img.shields.io/github/stars/google/adb-sync?style=social&color=white)](https://github.com/google/adb-sync/stargazers)  
   Command-line tool by Google to synchronize files and directories between an Android device and a computer over ADB in both directions.
 
 ---
 
 ### ⚡ Rooted & System-Level Android Backups
 
-- **[App Manager](https://github.com/MuntashirAkon/AppManager)** [![GitHub stars](https://img.shields.io/github/stars/MuntashirAkon/AppManager?style=social&color=white)](https://github.com/MuntashirAkon/AppManager/stargazers)  
+- **[App Manager](https://github.com/MuntashirAkon/AppManager)** [![GitHub_Stars](https://img.shields.io/github/stars/MuntashirAkon/AppManager?style=social&color=white)](https://github.com/MuntashirAkon/AppManager/stargazers)  
   Feature-packed open-source package manager and backup tool for Android with root/ADB support to snapshot apps, apk files, and app data rules.
 
-- **[DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)** [![GitHub stars](https://img.shields.io/github/stars/XayahSuSuSu/Android-DataBackup?style=social&color=white)](https://github.com/XayahSuSuSu/Android-DataBackup/stargazers)  
+- **[DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)** [![GitHub_Stars](https://img.shields.io/github/stars/XayahSuSuSu/Android-DataBackup?style=social&color=white)](https://github.com/XayahSuSuSu/Android-DataBackup/stargazers)  
   Modern open-source backup tool for rooted Android devices supporting Magisk/KernelSU/APatch, multi-user profiles, and WebDAV cloud syncing.
 
-- **[Neo Backup](https://github.com/NeoApplications/Neo-Backup)** [![GitHub stars](https://img.shields.io/github/stars/NeoApplications/Neo-Backup?style=social&color=white)](https://github.com/NeoApplications/Neo-Backup/stargazers)  
+- **[Neo Backup](https://github.com/NeoApplications/Neo-Backup)** [![GitHub_Stars](https://img.shields.io/github/stars/NeoApplications/Neo-Backup?style=social&color=white)](https://github.com/NeoApplications/Neo-Backup/stargazers)  
   Powerful open-source backup manager for rooted Android devices capable of backing up APKs, app data, system configurations, and external storage.
 
-- **[Seedvault](https://github.com/seedvault-app/seedvault)** [![GitHub stars](https://img.shields.io/github/stars/seedvault-app/seedvault?style=social&color=white)](https://github.com/seedvault-app/seedvault/stargazers)  
+- **[Seedvault](https://github.com/seedvault-app/seedvault)** [![GitHub_Stars](https://img.shields.io/github/stars/seedvault-app/seedvault?style=social&color=white)](https://github.com/seedvault-app/seedvault/stargazers)  
   Built-in privacy-first backup and restore application integrated into AOSP builds (LineageOS, CalyxOS, GrapheneOS) backing up to Nextcloud or USB.
 
 ---
 
 ### 🏢 Open-Source MDM & Fleet Management
 
-- **[Fleet (FleetDM)](https://github.com/fleetdm/fleet)** [![GitHub stars](https://img.shields.io/github/stars/fleetdm/fleet?style=social&color=white)](https://github.com/fleetdm/fleet/stargazers)  
+- **[Fleet (FleetDM)](https://github.com/fleetdm/fleet)** [![GitHub_Stars](https://img.shields.io/github/stars/fleetdm/fleet?style=social&color=white)](https://github.com/fleetdm/fleet/stargazers)  
   Open-source Unified Endpoint Management (UEM) and telemetry platform supporting iOS, iPadOS, Android, macOS, and Linux with osquery-driven policies.
 
-- **[MicroMDM](https://github.com/micromdm/micromdm)** [![GitHub stars](https://img.shields.io/github/stars/micromdm/micromdm?style=social&color=white)](https://github.com/micromdm/micromdm/stargazers)  
+- **[MicroMDM](https://github.com/micromdm/micromdm)** [![GitHub_Stars](https://img.shields.io/github/stars/micromdm/micromdm?style=social&color=white)](https://github.com/micromdm/micromdm/stargazers)  
   Minimalist, API-driven Apple Mobile Device Management (MDM) server written in Go for enrolling, configuring, and managing iOS fleets.
 
-- **[NanoMDM](https://github.com/micromdm/nanomdm)** [![GitHub stars](https://img.shields.io/github/stars/micromdm/nanomdm?style=social&color=white)](https://github.com/micromdm/nanomdm/stargazers)  
+- **[NanoMDM](https://github.com/micromdm/nanomdm)** [![GitHub_Stars](https://img.shields.io/github/stars/micromdm/nanomdm?style=social&color=white)](https://github.com/micromdm/nanomdm/stargazers)  
   Scalable, modern minimalist Apple MDM server engineered for high-throughput mobile device administration and configuration profiles.
 
-- **[Headwind MDM](https://github.com/h-mdm/hmdm-server)** [![GitHub stars](https://img.shields.io/github/stars/h-mdm/hmdm-server?style=social&color=white)](https://github.com/h-mdm/hmdm-server/stargazers)  
+- **[Headwind MDM](https://github.com/h-mdm/hmdm-server)** [![GitHub_Stars](https://img.shields.io/github/stars/h-mdm/hmdm-server?style=social&color=white)](https://github.com/h-mdm/hmdm-server/stargazers)  
   Open-source Android Mobile Device Management (MDM) platform allowing centralized APK deployment, settings management, and device tracking.
 
-- **[Flyve MDM](https://github.com/flyve-mdm/glpi-plugin)** [![GitHub stars](https://img.shields.io/github/stars/flyve-mdm/glpi-plugin?style=social&color=white)](https://github.com/flyve-mdm/glpi-plugin/stargazers)  
+- **[Flyve MDM](https://github.com/flyve-mdm/glpi-plugin)** [![GitHub_Stars](https://img.shields.io/github/stars/flyve-mdm/glpi-plugin?style=social&color=white)](https://github.com/flyve-mdm/glpi-plugin/stargazers)  
   Open-source Mobile Device Management solution integrating with GLPI for enterprise inventory, policy push, and mobile fleet control.
 
 ---
 
 ### 🔄 Contacts, Calendars & Lightweight Sync
 
-- **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
+- **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub_Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
   Continuous, decentralized P2P file synchronization tool for backing up Android directories directly to local servers, PC, or NAS without third-party clouds.
 
-- **[Termux](https://github.com/termux/termux-app)** [![GitHub stars](https://img.shields.io/github/stars/termux/termux-app?style=social&color=white)](https://github.com/termux/termux-app/stargazers)  
+- **[Termux](https://github.com/termux/termux-app)** [![GitHub_Stars](https://img.shields.io/github/stars/termux/termux-app?style=social&color=white)](https://github.com/termux/termux-app/stargazers)  
   Android terminal emulator and Linux environment enabling automated rsync, Borg, Rclone, and SSH scripted mobile data backups.
 
-- **[Rclone](https://github.com/rclone/rclone)** [![GitHub stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
+- **[Rclone](https://github.com/rclone/rclone)** [![GitHub_Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
   Command-line sync tool (run via Termux or Round-Sync on Android) supporting scheduled, encrypted backups to 70+ cloud storage providers.
 
-- **[Restic](https://github.com/restic/restic)** [![GitHub stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
+- **[Restic](https://github.com/restic/restic)** [![GitHub_Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
   Secure, fast, deduplicated backup program frequently paired with local iOS idevicebackup2 dumps and Android storage sync targets.
 
-- **[Duplicati](https://github.com/duplicati/duplicati)** [![GitHub stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers)  
+- **[Duplicati](https://github.com/duplicati/duplicati)** [![GitHub_Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers)  
   Free backup client that securely stores encrypted, incremental, compressed backups of mobile data folders on cloud storage and NAS.
 
-- **[BorgBackup](https://github.com/borgbackup/borg)** [![GitHub stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
+- **[BorgBackup](https://github.com/borgbackup/borg)** [![GitHub_Stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
   Deduplicating archiver with authenticated encryption; standard backend for secondary archival of Android and iOS backup directories.
 
-- **[Radicale](https://github.com/Kozea/Radicale)** [![GitHub stars](https://img.shields.io/github/stars/Kozea/Radicale?style=social&color=white)](https://github.com/Kozea/Radicale/stargazers)  
+- **[Radicale](https://github.com/Kozea/Radicale)** [![GitHub_Stars](https://img.shields.io/github/stars/Kozea/Radicale?style=social&color=white)](https://github.com/Kozea/Radicale/stargazers)  
   Lightweight CalDAV and CardDAV server for self-hosted, private synchronization and backup of contacts, calendars, and tasks across iOS and Android.
 
-- **[DAVx⁵](https://github.com/bitfireAT/davx5-ose)** [![GitHub stars](https://img.shields.io/github/stars/bitfireAT/davx5-ose?style=social&color=white)](https://github.com/bitfireAT/davx5-ose/stargazers)  
+- **[DAVx⁵](https://github.com/bitfireAT/davx5-ose)** [![GitHub_Stars](https://img.shields.io/github/stars/bitfireAT/davx5-ose?style=social&color=white)](https://github.com/bitfireAT/davx5-ose/stargazers)  
   Open-source CalDAV/CardDAV/WebDAV synchronization suite for Android that automatically backs up contacts, tasks, and calendars to self-hosted clouds.
 
-- **[SMS Import / Export](https://github.com/tmo1/sms-ie)** [![GitHub stars](https://img.shields.io/github/stars/tmo1/sms-ie?style=social&color=white)](https://github.com/tmo1/sms-ie/stargazers)  
+- **[SMS Import / Export](https://github.com/tmo1/sms-ie)** [![GitHub_Stars](https://img.shields.io/github/stars/tmo1/sms-ie?style=social&color=white)](https://github.com/tmo1/sms-ie/stargazers)  
   Lightweight Android app to back up and restore SMS, MMS, call logs, contacts, and blocked numbers to and from standard JSON / NDJSON files.
 
 ---
